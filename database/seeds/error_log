@@ -1,0 +1,4 @@
+[23-Jul-2023 13:31:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/yuloapp/public_html/database/seeds/PagesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/yuloapp/public_html/database/seeds/PagesTableSeeder.php on line 5

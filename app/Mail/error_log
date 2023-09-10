@@ -1,0 +1,8 @@
+[17-Jul-2023 14:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/bookshop/yulo.thebookshopnft.io/app/Mail/SendMailWithAttachments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookshop/yulo.thebookshopnft.io/app/Mail/SendMailWithAttachments.php on line 10
+[17-Jul-2023 17:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/bookshop/yulo.thebookshopnft.io/app/Mail/SendMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookshop/yulo.thebookshopnft.io/app/Mail/SendMail.php on line 10
